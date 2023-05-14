@@ -1,7 +1,3 @@
-# Tic-Tac-Toe Game
-
-This repository contains a simple implementation of the Tic-Tac-Toe game in Python. You can play against a bot and try to win the game. The game board is displayed in the command line interface.
-
 ## Requirements
 
 - Python: Make sure you have Python installed on your computer. If you don't have Python installed, follow the instructions below based on your operating system:
